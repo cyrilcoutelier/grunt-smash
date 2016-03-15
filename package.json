@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "smash": "~0.0.11",
+    "smash": "~0.0.15",
     "queue-async": "~1.0.3"
   },
   "devDependencies": {
